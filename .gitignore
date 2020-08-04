@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+node_modules/
+npm-debug.log
+/build/
+/hot/
+/coverage/
+/dist/
+.env.*
+!.env.example
+.vscode
